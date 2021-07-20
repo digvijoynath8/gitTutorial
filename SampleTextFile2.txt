@@ -1,2 +1,4 @@
 This is a samplwe text file, text os ok.
 Changes done to master
+Chnages in newBranch2
+
